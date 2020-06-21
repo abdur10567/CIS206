@@ -31,7 +31,5 @@ public class Main
 		//test the clear method
 		register1.clear();
 		System.out.println("Total # of items after clear : " + register1.getCount());
-
-		//ADDED LINE ASDAKLSFLASKLFKSLF
 	}
 }
